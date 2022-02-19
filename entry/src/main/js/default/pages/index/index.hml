@@ -16,7 +16,7 @@
 <element name='neuswitcher' src='../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
 
 <div class="body">
-    <neutheme class="container" theme="light_theme">
+    <neutheme class="container" theme="light_mode">
         <div class="main">
             <div class="user">
                 <neuavatar icon="common/images/user.png" class="user_avatar"></neuavatar>
