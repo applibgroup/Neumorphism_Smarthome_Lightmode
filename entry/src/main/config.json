@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.cyb0rg.neumorphism_smart_home_light",
+    "bundleName": "com.cyb0rg.neumorphism_smarthome_lightmode",
     "vendor": "cyb0rg",
     "version": {
       "code": 1000000,
@@ -9,9 +9,9 @@
   },
   "deviceConfig": {},
   "module": {
-    "package": "com.cyb0rg.neumorphism_smart_home_light",
+    "package": "com.cyb0rg.neumorphism_smarthome_lightmode",
     "name": ".MyApplication",
-    "mainAbility": "com.cyb0rg.neumorphism_smart_home_light.MainAbility",
+    "mainAbility": "com.cyb0rg.neumorphism_smarthome_lightmode.MainAbility",
     "deviceType": [
       "phone",
       "tablet",
@@ -37,7 +37,7 @@
           }
         ],
         "visible": true,
-        "name": "com.cyb0rg.neumorphism_smart_home_light.MainAbility",
+        "name": "com.cyb0rg.neumorphism_smarthome_lightmode.MainAbility",
         "icon": "$media:icon",
         "description": "$string:mainability_description",
         "label": "$string:entry_MainAbility",
