@@ -1,4 +1,4 @@
-package com.cyb0rg.neumorphism_smarthome_lightmode;
+package com.cyborg.neumorphism_smarthome_lightmode;
 
 import ohos.aafwk.ability.delegation.AbilityDelegatorRegistry;
 import org.junit.Test;
@@ -9,6 +9,6 @@ public class ExampleOhosTest {
     @Test
     public void testBundleName() {
         final String actualBundleName = AbilityDelegatorRegistry.getArguments().getTestBundleName();
-        assertEquals("com.cyb0rg.neumorphism_smarthome_lightmode", actualBundleName);
+        assertEquals("com.cyborg.neumorphism_smarthome_lightmode", actualBundleName);
     }
 }
